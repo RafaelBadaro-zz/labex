@@ -2,7 +2,7 @@ import requests
 import time
 import csv
 
-headers = {"Authorization": "token 2dbb6a2ddc3e7deb027578bbde2066ef69e8e0af"}
+headers = {"Authorization": "token "}
 
 endCursor = "null"  # Proxima pagina
 nodes = []  # Resultados da query
